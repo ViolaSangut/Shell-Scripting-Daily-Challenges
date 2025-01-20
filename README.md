@@ -1,1 +1,1 @@
-# ShellScripting-Daily-Chalenges
+# ShellScripting-Daily-Challenges
